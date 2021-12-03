@@ -1,0 +1,43 @@
+/* .col-md-8{
+    margin-top: 40px;
+} */
+
+li{
+    list-style-type: none;
+}
+
+.naved{
+    margin: 0px 20px;
+    background-color: white;
+    display: flex;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.row{
+    background-color: #00a8de;
+    /* width: 800px; */
+}
+
+.input-group.input-group-lg{
+    margin: 20px;
+
+    border-radius: 8px;
+}
+
+.kkk{
+    width: 100px;
+    display: inline;
+    height: 42px;
+    border: 1px solid white;
+    border-radius: 8px;
+}
+
+.lll{
+    display: inline;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
